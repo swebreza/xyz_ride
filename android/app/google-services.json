@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896900769145",
+    "project_id": "xyzride",
+    "storage_bucket": "xyzride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896900769145:android:2a679521ae52f42b43bba8",
+        "android_client_info": {
+          "package_name": "com.example.xyz_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896900769145-5m5cjt81g1bt7ikfs7iju2dlqnmau8kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZja7Y_JPeKDwhNYK9PgD8Icuv1Kq8xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896900769145-5m5cjt81g1bt7ikfs7iju2dlqnmau8kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
